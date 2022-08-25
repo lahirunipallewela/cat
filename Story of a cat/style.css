@@ -1,0 +1,19 @@
+*{
+    color: palevioletred;
+}
+.para{
+    color:darkcyan;
+    background-color: antiquewhite;
+}
+
+nav a{
+    display: inline;
+    background-color: bisque;
+    color: blueviolet;
+    padding: 5px;
+    text-decoration: none;
+    
+}
+nav a:hover{
+    border-bottom: solid 2px brown;
+}
